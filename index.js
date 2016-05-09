@@ -154,5 +154,4 @@ window.addEventListener('load', function(){
 		createName();
 		createCourse();
 		daleteCourse();
-		createCourseList();		
 });
