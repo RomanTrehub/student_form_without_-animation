@@ -1,0 +1,8 @@
+.column{width: 50%; float: left;}
+.form-group, .student-data{padding: 10px 0;}
+.form-group label, .student-data label{width: 100px; display: inline-block;}
+.student-data{height: 21.33px;}
+select{width: 173px;}
+li{list-style-type: none;
+	margin-top: 5px;
+}
